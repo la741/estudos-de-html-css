@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste de imagens</title>
+</head>
+<body>
+    <h1>testado carga e imagens</h1>
+    <p>abaixo voce vai ver uma imagem wque esta na mesma pasta</p>
+    <img src="imagens/CSS.3.svg.png" alt="logo css">
+
+    <p>imagem direto do gimp</p>
+    <img src="HTML5_logosvg.png" alt="logo html">
+    
+    <p>tambem podemos carregar imagens externas</p>
+    <img src="https://mulder21c.github.io/upload/2017/thumbs/js.png" alt="logo javascript">
+</body>
+</html>
